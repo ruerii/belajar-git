@@ -17,4 +17,4 @@
     M --> N[print diskon];
     N --> P[print bonus];
     P --> Q(finish)
-    
+```
